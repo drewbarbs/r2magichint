@@ -1,3 +1,4 @@
+/* LGPL */
 #include <r_anal.h>
 #include <r_types.h>
 #include <r_cmd.h>
